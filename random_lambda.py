@@ -1,6 +1,7 @@
 import json
-import boto3 as AWS
-import random as randomboiboiclaude
+import boto3
+import random
+import string
 
 def lambda_handler(event, context):
     # TODO implement
